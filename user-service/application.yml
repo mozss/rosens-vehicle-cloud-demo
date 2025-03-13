@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: user-service
+  cloud:
+    polaris:
+      address: 127.0.0.1:8091
+server:
+  port: 8082

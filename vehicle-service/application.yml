@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: vehicle-service
+  cloud:
+    polaris:
+      address: 127.0.0.1:8091  # Polaris 注册中心
+      config:
+        enabled: true  # 启用动态配置
+server:
+  port: 8081

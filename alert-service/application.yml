@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: alert-service
+  cloud:
+    polaris:
+      address: 127.0.0.1:8091
+      circuitbreaker:
+        enabled: true  # 启用熔断
+server:
+  port: 8083
