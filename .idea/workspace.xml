@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84bbbed3-2262-4b32-8bb1-23eed0b09f5e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alert-service/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alert-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alert-service/src/main/java/com/rosens/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alert-service/src/main/java/controller/AlertController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/rosens/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosens/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/client/VehicleServiceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/rosens/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehicle-service/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehicle-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehicle-service/src/main/java/com/rosens/VehicleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehicle-service/src/main/java/controller/VehicleController.java" afterDir="false" />
+    <list default="true" id="84bbbed3-2262-4b32-8bb1-23eed0b09f5e" name="更改" comment="项目初始化">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosens/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +57,35 @@
       <option name="presentableId" value="Default" />
       <updated>1741833618596</updated>
       <workItem from="1741833619651" duration="1117000" />
-      <workItem from="1741834912593" duration="689000" />
+      <workItem from="1741834912593" duration="1241000" />
     </task>
+    <task id="LOCAL-00001" summary="项目初始化">
+      <option name="closed" value="true" />
+      <created>1741836643932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741836643932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
   </component>
 </project>
